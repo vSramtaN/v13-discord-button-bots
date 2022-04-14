@@ -1,0 +1,53 @@
+{
+  "Bot": {
+   "Bot_Token": "Botun Tokeni",
+   "Guild_Owners": ["Sunucu Kurucusu ve Kendi İd nizi girin"],
+   "Bot_Prefix": ".",
+   "Bot_Status": "dnd-online-idle seç birisini knkm",
+   "Bot_Durum": "Developed By SrâmtaN",
+   "Bot_VoiceChannel": "Botun Gireceği Ses Kanalı",
+   "Database_Mongourl":"Mongo url",
+   "Bot_Footer": "Developed By SrâmtaN"
+  },
+
+  "Server": {
+   "GuildID": "Sunucu ID"
+  },
+
+  "emoji": {
+    "loading": "<a:loading:958946908393574470>"
+  },
+
+"iliski": {
+  "Alone":"sevgilim yok",
+  "LGBT":"lgbt",
+ "anyone":"sevgili yapmıyorum", 
+ "Lovers":"sevgilim var" 
+},
+
+"katilim": {
+ "etkinlik":"etkinlik katılımcısı",
+ "cekilis":"çekiliş katılımcısı"
+
+ },
+ "game": {
+   "gartic":"gartic",
+   "vk":"Vampir Köylü",
+   "dc":"Doğruluk / Cesaretlilik"
+ },
+
+ "burç": {
+  "boga": "boğa",
+  "ikizler": "ikizler",
+  "yengec": "yengeç",
+  "aslan": "aslan",
+  "basak": "başak",
+  "terazi": "terazi",
+  "koc": "koç",
+  "akrep": "akrep",
+  "yay": "yay",
+  "oglak": "oğlak",
+  "kova": "kov",
+  "balık": "balık"
+ }
+}
