@@ -9,7 +9,7 @@ module.exports = {
     çalıştır: async (client, message, args, prefix ) => {
     
     const embed = new Discord.MessageEmbed()
-    .setColor("YELLLOW")
+    .setColor("YELLOW")
     .setFooter(sraconfig.Bot.Bot_Footer)
     .setTitle(` ${sraconfig.emoji.loading} Botun Gecikmesi: ** ${Math.round(message.client.ws.ping)} MS **`)
  
