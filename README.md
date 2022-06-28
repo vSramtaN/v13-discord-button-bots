@@ -1,6 +1,8 @@
 # v13mongo-discord-buttons
 10 Starda Size Mongolu Bol Komutlu Buton Bot :D
 
+Not: Bot'a son yetkileri ve mutlaka ses kanal id sini girin yoksa çalışmaz
+
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Görseller
