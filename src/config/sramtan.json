@@ -1,0 +1,69 @@
+{
+  "Bot": {
+   "Bot_Token": "BOT_TOKEN",
+   "Guild_Owners": ["SUNUCU KURUCUSU VE KENDİ İD NİZİ GİRİN"],
+   "Bot_Prefix": "PREFİX",
+   "Bot_Status": "dnd-online-idle seç birisini knkm",
+   "Bot_Durum": "SrâmtaN 💙",
+   "Bot_VoiceChannel": "BOT_SES YAPMASSANIZ ÇALIŞMAZ",
+   "Database_Mongourl":"MOGO_URL YOUTUBE DE VAR",
+   "Bot_Footer": "SrâmtaN 💙"
+  },
+
+  "Server": {
+   "GuildID": "SUNUCU_İD"
+  },
+
+  "emoji": {
+    "loading": "<a:loading:958946908393574470>"
+  },
+
+"iliski": {
+  "Alone":"YALNIZ İD",
+  "LGBT":"LGBT İD",
+ "anyone":"SEVGİLİ YAPMIYORUM İD", 
+ "Lovers":"SEVGİLİM VAR İD" 
+},
+
+"katilim": {
+ "etkinlik":"ETKİNLİK KATILIMCISI İD",
+ "cekilis":"ÇEKİLİŞ KATILIMCISI İD"
+
+ },
+ "game": {
+   "gartic":"GARTİC_ROL İD",
+   "vk":"VAMPİR KÖYLÜ ROL İD",
+   "dc":"DOĞRULUK VE CESARETLİLİK İD"
+ },
+
+ "burç": {
+  "boga": "ROL İD' LERİNİ GİRİN",
+  "ikizler": "ROL İD' LERİNİ GİRİN",
+  "yengec": "ROL İD' LERİNİ GİRİN",
+  "aslan": "ROL İD' LERİNİ GİRİN",
+  "basak": "ROL İD' LERİNİ GİRİN",
+  "terazi": "ROL İD' LERİNİ GİRİN",
+  "koc": "ROL İD' LERİNİ GİRİN",
+  "akrep": "ROL İD' LERİNİ GİRİN",
+  "yay": "ROL İD' LERİNİ GİRİN",
+  "oglak": "ROL İD' LERİNİ GİRİN",
+  "kova": "ROL İD' LERİNİ GİRİN",
+  "balık": "ROL İD' LERİNİ GİRİN"
+ },
+
+
+ "color": {
+   "siyah": "ROL İD' LERİNİ GİRİN",
+   "beyaz": "ROL İD' LERİNİ GİRİN",
+   "kırmızı": "ROL İD' LERİNİ GİRİN",
+   "yesil": "ROL İD' LERİNİ GİRİN",
+   "mor": "ROL İD' LERİNİ GİRİN",
+   "mavi": "ROL İD' LERİNİ GİRİN",
+   "pembe": "ROL İD' LERİNİ GİRİN",
+   "sarı": "ROL İD' LERİNİ GİRİN", 
+   "turuncu": "ROL İD' LERİNİ GİRİN"
+ }
+
+
+
+}
