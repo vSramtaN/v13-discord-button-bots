@@ -1,7 +1,7 @@
 # v13mongo-discord-buttons
 
 
-Not: Bot'a son yetkileri ve mutlaka ses kanal id sini girin yoksa çalışmaz
+Not: Bot'a son yetkileri açın ve mutlaka ses kanal id sini girin yoksa çalışmaz
 
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
