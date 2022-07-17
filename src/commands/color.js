@@ -71,7 +71,7 @@ module.exports = {
   **   Mor : <@&${babansramtanmaddox.color.mor}> **
   **   Sarı : <@&${babansramtanmaddox.color.sarı}> ** 
    **  Turuncu : <@&${babansramtanmaddox.color.turuncu}> **
-   **  Mavi <@&${babansramtanmaddox.color.mavi}> **
+   **  Mavi : <@&${babansramtanmaddox.color.mavi}> **
    **  Pembe : <@&${babansramtanmaddox.color.pembe}> **
 
     
